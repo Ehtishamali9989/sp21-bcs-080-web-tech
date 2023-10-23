@@ -1,0 +1,51 @@
+#header{
+      
+    background-color: rgb(26, 110, 82);
+    border-style: hidden;
+    
+}
+
+#Main{
+    flex-direction: row;
+}
+#left{
+    
+    float: left;
+    width: 20%;
+    overflow: hidden;
+    border: 1px solid black;
+    margin-right: 20px;
+  
+}
+#right{
+ 
+    float: right;
+    width: 20%;
+    border: 1px solid black;
+    margin-left: 20px;
+
+}
+#Content{
+   overflow: hidden; 
+   padding: 20px;
+   margin: 20px;
+   border: 0px;
+   border: 1px solid black;
+   
+}
+h1{
+    padding: 10px;
+    margin: 20px;
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(26, 110, 82);
+    font-size: small;
+}
+#Statistics{
+    
+    float: left;
+    width: 20%;
+    overflow: hidden;
+    border: 1px solid black;
+    margin-right: 20px;
+  
+}
